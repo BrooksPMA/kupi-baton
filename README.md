@@ -1,6 +1,8 @@
 # kupi-baton
 
-This template should help get you started developing with Vue 3 in Vite.
+Купи-батон. Аналог iOS приложения которым я пользовался много лет назад :) Помогает быстро составить список покупок. 
+
+Vue3 + Firebase
 
 ## Recommended IDE Setup
 
