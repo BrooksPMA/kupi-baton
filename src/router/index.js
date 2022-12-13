@@ -3,7 +3,7 @@ import Home from '../views/Home.vue';
 import Distribute from '../components/Distribute.vue';
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHistory(),
   routes: [
     {
       path: '/',
